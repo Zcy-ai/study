@@ -47,7 +47,9 @@ La clé primaire de la classe mère est utilisée pour identifier chacune de ses
 ![](https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/14h0.png)
 
 Classe1(#a,b)
+
 Classe2(#a=>Classe1,c,d) avec c KEY
+
 Classe3(#a=>Classe1,e,f) avec e KEY
 
 #### Héritage par une référence et vues
@@ -65,8 +67,11 @@ vClasse3=jointure(Classe1,Classe3,a=a)
 ![](https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/14h0.png)
 
 La classe mère référence chacune de ses classes filles
+
 Classe1(#a,b,c=>Classe2, e=>Classe3) avec c UNIQUE et e UNIQUE
+
 Classe2(#c,d)
+
 Classe3(#e,f)
 
 #### Héritage par les classes filles
@@ -74,15 +79,25 @@ Classe3(#e,f)
 ![](https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/14h_a0.png)
 
 * 当父类是抽象类时
+
 R2(#a,b,c,d) avec c KEY
+
 R3(#a,b,e,f) avec e KEY
+
 Contraintes : INTERSECTION (PROJECTION(R2,a), PROJECTION(R3,a)) = {}
+
 * 当父类不是抽象类时
+
 R1(#a,b)
+
 R2(#a,b,c,d) avec c KEY
+
 R3(#a,b,e,f) avec e KEY
+
 Contraintes :
+
 INTERSECTION (PROJECTION(R2,a), PROJECTION(R3,a)) = {}
+
 INTERSECTION (PROJECTION(R1,a), (PROJECTION(R2,a) UNION PROJECTION(R3,a)) = {}
 
 #### Héritage par la classe mère
@@ -91,11 +106,17 @@ INTERSECTION (PROJECTION(R1,a), (PROJECTION(R2,a) UNION PROJECTION(R3,a)) = {}
 ![](https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/14h_apc.png)
 
 R1(#a,b,c,d,e,f,t:{2,3})
+
 Contraintes :
+
 t NOT NULL
+
 NOT (t=2 AND f)
+
 NOT (t=3 AND d)
+
 t=2 AND d (si d est non nul)
+
 t=3 AND f (si f est non nul)
 
 * Héritage par la classe mère avec classe mère abstraite
@@ -105,12 +126,19 @@ t=3 AND f (si f est non nul)
 R1(#a,b,c,d,e,f,t:{2,3})
 
 Contraintes :
+
 t NOT NULL
+
 c UNIQUE
+
 e UNIQUE
+
 t=2 AND c
+
 t=3 AND e
+
 NOT (t=2 AND (e OR f)
+
 NOT (t=3 AND (c OR d)
 
 
