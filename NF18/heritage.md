@@ -123,6 +123,8 @@ t=2 AND d (si d est non nul)
 
 t=3 AND f (si f est non nul)
 
+不太确定，是不是子类拥有自己的association时就不能使用这类继承
+
 * Héritage par la classe mère avec classe mère abstraite
 
 ![](https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/14h_a0.png)
