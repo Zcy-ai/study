@@ -45,6 +45,7 @@ La clé primaire de la classe mère est utilisée pour identifier chacune de ses
 子类有一个主键指向父类的外键
 
 ![](https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/14h0.png)
+
 Classe1(#a,b)
 Classe2(#a=>Classe1,c,d) avec c KEY
 Classe3(#a=>Classe1,e,f) avec e KEY
@@ -52,6 +53,7 @@ Classe3(#a=>Classe1,e,f) avec e KEY
 #### Héritage par une référence et vues
 
 ![](https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/14h0.png)
+
 Classe1(#a,b)
 Classe2(#a=>Classe1,c,d) avec c KEY
 Classe3(#a=>Classe1,e,f) avec e KEY
@@ -61,6 +63,7 @@ vClasse3=jointure(Classe1,Classe3,a=a)
 #### Héritage par référence(de la mère vers les filles)
 
 ![](https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/14h0.png)
+
 La classe mère référence chacune de ses classes filles
 Classe1(#a,b,c=>Classe2, e=>Classe3) avec c UNIQUE et e UNIQUE
 Classe2(#c,d)
@@ -69,6 +72,7 @@ Classe3(#e,f)
 #### Héritage par les classes filles
 
 ![](https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/14h_a0.png)
+
 * 当父类是抽象类时
 R2(#a,b,c,d) avec c KEY
 R3(#a,b,e,f) avec e KEY
