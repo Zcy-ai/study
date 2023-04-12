@@ -57,9 +57,13 @@ Classe3(#a=>Classe1,e,f) avec e KEY
 ![](https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/14h0.png)
 
 Classe1(#a,b)
+
 Classe2(#a=>Classe1,c,d) avec c KEY
+
 Classe3(#a=>Classe1,e,f) avec e KEY
+
 vClasse2=jointure(Classe1,Classe2,a=a)
+
 vClasse3=jointure(Classe1,Classe3,a=a)
 
 #### Héritage par référence(de la mère vers les filles)
