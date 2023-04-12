@@ -7,10 +7,12 @@ Dire que A' hérite de A équivaut à dire que A' est une sous-classe de A. On p
 儿子继承妈妈的所有Method、attribut、association
 
 Factorisation
+
 ![avatar](https://nf18.ens.utc.fr/cours/05Cmod2-heritage_web/res/heritageFact.png)
 
 Is-a
 如果c类有一个和A类的association，A的儿子B也与C有association
+
 ![avatar](https://nf18.ens.utc.fr/cours/05Cmod2-heritage_web/res/heritageIsa.png)
 
 ### Classe abstraite
@@ -22,11 +24,13 @@ Une classe abstraite est une classe <strong>non instanciable</strong>. Elle expr
 
 #### Héritage complet
 Un héritage est complet si ses classes filles n'ont aucune caractéristiques (attributs, méthodes, associations) propres.
+
 ![avatar](https://nf18.ens.utc.fr/cours/05Cmod2-heritage_web/res/14h_c0.png)
 
 #### Héritage exclusif
 Un héritage est exclusif si les objets d'une classe fille ne peuvent appartenir aussi à une autre classe fille. On peut le noter avec la contrainte {X} sur le diagramme UML ({XT} si la classe mère est abstraite).
 一个对象要么是classe2要么是classe3
+
 ![avatar](https://nf18.ens.utc.fr/cours/05Cmod2-heritage_web/res/14h_x0.png)
 
 我们尽可能使用Héritage exclusif（无论在解释还是机器实现方面）
@@ -39,12 +43,14 @@ L'héritage multiple est une forme d'héritage qui exprime qu'une classe fille h
 #### Héritage par référence(des filles vers la mère)
 La clé primaire de la classe mère est utilisée pour identifier chacune de ses classes filles : cette clé étant pour chaque classe fille à la fois la clé primaire et une clé étrangère vers la classe mère.
 子类有一个主键指向父类的外键
+
 ![](https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/14h0.png)
 Classe1(#a,b)
 Classe2(#a=>Classe1,c,d) avec c KEY
 Classe3(#a=>Classe1,e,f) avec e KEY
 
 #### Héritage par une référence et vues
+
 ![](https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/14h0.png)
 Classe1(#a,b)
 Classe2(#a=>Classe1,c,d) avec c KEY
@@ -53,6 +59,7 @@ vClasse2=jointure(Classe1,Classe2,a=a)
 vClasse3=jointure(Classe1,Classe3,a=a)
 
 #### Héritage par référence(de la mère vers les filles)
+
 ![](https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/14h0.png)
 La classe mère référence chacune de ses classes filles
 Classe1(#a,b,c=>Classe2, e=>Classe3) avec c UNIQUE et e UNIQUE
@@ -60,6 +67,7 @@ Classe2(#c,d)
 Classe3(#e,f)
 
 #### Héritage par les classes filles
+
 ![](https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/14h_a0.png)
 * 当父类是抽象类时
 R2(#a,b,c,d) avec c KEY
@@ -103,10 +111,6 @@ NOT (t=3 AND (c OR d)
 
 
 ### Équivalence entre association d'héritage et association 1:1
+
 ![](https://nf18.ens.utc.fr/cours/05Cmod2-heritage_web/res/heritage-cardinalites.png)
 
-
-### Contraintes
-
-#### Héritage par référence
-https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/14h0.png
