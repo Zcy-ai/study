@@ -46,5 +46,3 @@
     Contraintes: (R1,a) = PROJECTION(A,a) AND PROJECTION(R2,c) = PROJECTION(A,c)
 
     Si la cardinalité est 0..N:1..N seule une des deux contraintes est exprimée.
-
-* 
