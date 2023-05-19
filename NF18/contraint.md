@@ -3,6 +3,8 @@
 ## Cardinalité
 
 
+## Association 1:1..N
+
 ![](https://nf18.ens.utc.fr/cours/12Cmod3-contraintes_web/res/06a1n.png)
 
 * Si la cardinalité est exactement 1 (1..1) côté 1, alors on ajoutera une contrainte de non nullité sur la clé étrangère

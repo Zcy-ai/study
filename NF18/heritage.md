@@ -152,3 +152,5 @@ NOT (t=3 AND (c OR d)
 
 ![](https://nf18.ens.utc.fr/cours/05Cmod2-heritage_web/res/heritage-cardinalites.png)
 
+
+

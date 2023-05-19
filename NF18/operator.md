@@ -59,5 +59,12 @@ R = Produit (R1, R2)
 
 ## 5.Division
 
+La division de RD par Rd a pour résultat RQ tel que RQ comporte le plus grand ensemble possible de tuples qui concaténés à ceux de Rd donnent toujours un tuple de RD.
+
+La division permet de répondre aux questions du type : "Donnez toutes les personnes qui pratiquent tous les métiers de la relation métier".
+
 ## 6.Renommage
 
+Personne (nom, prénom, age)
+
+R = Renommage (Personne, a, b, c))

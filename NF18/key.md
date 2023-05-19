@@ -15,7 +15,7 @@ Une clé est un groupe d'attributs minimum qui permet de'identifier de façon un
 #### Clé artificielle
 一个附加的属性，本身没有任何含义。仅用于作为唯一标识/简化数据库中的外键引用。在定义上与之相反的称为Clé signifiant（本身带有含义）
 
-⚠️ 在逻辑模型层面，我们必须避免用​​人工键识别所有关系
+⚠️ 在逻辑模型层面，我们必须避免用​​人工键识别所有关系。在UML图中先不要把人工键加上
 
 🌟🌟🌟
 * 如果存在至少一个由单个属性组成的immutable的Clé naturelle，则选择其中一个作为主键
