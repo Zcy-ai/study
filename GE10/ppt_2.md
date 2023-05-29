@@ -288,3 +288,79 @@ Les banques commerciales peuvent se financer auprès d’autres banques de secon
 En plus du taux directeur, la banque centrale dispose d’un second instrument permettant de contrôler la création monétaire, il s’agit des réserves obligatoires ( vu précédemment)
 
 强制准备金和边际贷款利率是中央银行运用的两种主要工具，用于管理银行体系中的流动性和货币供应。通过调整这些工具，中央银行可以影响银行体系的借贷活动、市场流动性以及整体经济的运行。需要注意的是，不同国家和地区的中央银行可能会有不同的政策和工具来管理货币供应和市场流动性，以适应本国的经济和金融体系。
+
+### Les RO limitent la capacité des banques à créer de la monnaie
+
+Il en découle le fait que plus le taux de RO est élevé, plus la capacité des banques à accorder de nouveaux crédits est faible ( inversement).
+
+Lors de crises économiques ou de morosité économique, les banques centrales procèdent généralement à une baisse des taux directeurs et du taux de RO afin d’inciter les banques à créer davantage de monnaie pour les besoins de relance économique.
+
+### Les limites à la création monétaire
+
+Le pouvoir de création monétaire est limité et encadré.
+
+Il est limité du fait des retraits des billets effectués par les clients sur leurs dépôts; les banques doivent se les procurer sur le marché monétaire moyennant un taux d’intérêt ou les retirer sur leurs dépôts auprès de la banque centrale.
+
+La seconde limite découle des contraintes imposées par les RO, constitués de dépôts non rémunérés auprès de la banque centrale. 
+
+### La destruction monétaire et la création nette de monnaie
+
+la destruction monétaire accompagne la création monétaire : A toute opération de création monétaire est associée une opération de destruction monétaire. Celle-ci intervient lorsque:
+
+货币毁灭伴随着货币创造：每个货币创造操作都与货币毁灭操作有关。这发生在以下情况：
+
+Le débiteur rembourse le crédit initialement octroyé par la banque
+
+Il y a une opération d’importation: l’importateur est généralement tenu de payer son fournisseur en devises. Il est ainsi conduit à convertir une certaine quantité de monnaie nationale en devises ( des euros contre des dollars par exemple). Cette opération de conversion se traduit par une diminution des euros en circulation.
+
+有一笔进口交易：进口商一般有义务用外币向其供应商付款。因此，进口商必须将一定数量的本国货币转换成外币（例如，欧元转换成美元）。这种转换操作会导致流通中的欧元数量减少。
+
+### La création nette de monnaie dépend de la conjoncture économique
+
+Au final la création nette de monnaie est la différence entre la création monétaire et la destruction monétaire.
+
+Elle est tributaire de la conjoncture économique. La création nette de monnaie est plus élevée en période de croissance économique. Les anticipations positives des agents économiques favorisent la demande de crédits à des fins de consommation et d’investissement. 
+
+A l’inverse, lorsque la conjoncture est morose , la création nette de monnaie est plus faible.
+
+最后，净货币创造是货币创造和货币毁灭之间的区别。
+它取决于经济环境。在经济增长的时期，净货币创造量较高。经济主体的积极预期鼓励了对消费和投资目的的信贷需求。
+相反，当经济不景气时，净货币创造就会降低。
+
+### les agrégats monétaires et les contreparties de la masse monetaire
+
+les agrégats monétaires, un instrument de mesure de la masse monétaire: Mesurer la quantité de monnaie en circulation dans l’économie est d’un intérêt crucial. 
+
+货币总量，衡量货币供应量的工具
+
+Les agrégats permettent de mesurer la quantité de monnaie en circulation mais aussi de classer les formes de monnaie selon un degré de liquidité.
+Dans le cadre de la zone euro, trois agrégats monétaires ont été définis: M1, M2, M3
+
+
+总量使得衡量流通中的货币数量成为可能，同时也可以根据货币的流动性程度对其进行分类。
+欧元区已经定义了三种货币总量：M1、M2、M3。
+
+L’agrégat monétaire M1 mesure la monnaie au sens strict. Il inclut les billets et les pièces, les dépôts à vue ( des ménages, des entreprises, des administrations publiques,..). Il s’agit en somme de l’ensemble des moyens de paiement utilisés par les agents économiques.
+
+L’agrégat monétaire M2 inclut M1et les dépôts considérés comme de la quasi-monnaie, il regroupe tous les actifs financiers qui peuvent être transformés en moyen de paiement immédiat . Il s’agit des dépôts à terme inférieurs à deux ans ( les comptes à terme par exemple), des dépôts avec préavis inférieurs à trois mois, ce sont des placements non risqués et disponibles à vue ou immédiatement ( livret A, livre de développement durable, livret d’épargne….)
+
+M1（狭义货币）：M1是最窄的货币总量指标，主要衡量货币的狭义定义。它包括以下部分：
+
+* 纸币和硬币：流通中的现金货币。
+* 即期存款：包括家庭、企业、政府等机构的即时可用存款。它们是经济主体日常交易和支付所使用的货币。
+
+M2（准货币）：M2是较宽的货币总量指标，除了包括M1的内容外，还包括被视为准货币的存款。具体包括：
+
+* M1：即M1的定义，包括现金货币和即期存款。
+* 期限在两年以下的定期存款：指存款在规定期限内无法提前支取的存款，例如定期存款账户。
+* 通知期限在三个月以下的存款：指可以在规定的通知期限内支取的存款，如法定通知存款。
+* 其他类似的流动性较高、较低风险的储蓄和投资工具，如法定储蓄（livret A）、可持续发展储蓄（livret de développement durable）、储蓄存款账户等。
+
+M3（广义货币）：M3是最宽的货币总量指标，涵盖了M2的范围，并且还包括了较不易流通的货币部分。具体包括：
+
+* M2：即M2的定义，包括M1、定期存款和通知存款。
+* 向央行质押的养老金或债券：指向央行交换现金的抵押品，例如养老金资产或债券。
+* 期限在两年以下的债券和证券：指期限在两年以内的债券和金融证券。
+* 其他类似的较长期限、较不易流通的金融工具，如开放式投资基金的股票等。
+
+![](./img/M1M2M3.png)
