@@ -364,3 +364,71 @@ M3（广义货币）：M3是最宽的货币总量指标，涵盖了M2的范围�
 * 其他类似的较长期限、较不易流通的金融工具，如开放式投资基金的股票等。
 
 ![](./img/M1M2M3.png)
+
+M1, M2, M3 , constituent la masse monétaire, elle indique l’ensemble des moyens de paiement dont disposent les agents économiques pour effectuer des transactions de le cadre des échanges marchands.
+
+M1、M2和M3构成了货币供应量，它表明经济主体在贸易中进行交易的所有支付手段。
+
+Le contrôle de la masse monétaire revêt une importance cruciale car il permet aux autorités monétaires de mieux cibler la politique monétaire.
+
+控制货币供应量是至关重要的，因为它使货币当局能够更好地确定货币政策。
+
+Les autorités monétaires peuvent augmenter ou diminuer la masse monétaire en agissant sur la base monétaire appelée parfois M0. Celle-ci désigne la monnaie créée par une banque centrale qu’on appelle également monnaie centrale ( billets pièces, RO) 
+
+货币当局可以通过作用于货币基础（有时称为M0）来增加或减少货币供应。这指的是中央银行创造的货币，也被称为货币基础（纸币、硬币、RO）。
+
+### Les contreparties de la masse monétaire
+
+La masse monétaire correspond à des engagements des institutions monétaires financières auprès des agents économiques non financiers. Ces engagements figurent ainsi au passif de ces agents. Ils sont associés à des contreparties qui , elles, figurent à l’actif des institutions monétaires et financières. Ces contreparties sont les sources de la création monétaire. 
+
+On distingue ainsi trois contreparties de la masse monétaire : les avoirs extérieurs nets, les créances nettes sur l'Etat et les crédits à l'économie. 
+
+Les créances nettes sur l'extérieur : Les entrées de devises étrangères au sein d'un pays augmentent la masse monétaire. On prend alors en compte l'ensemble des devises détenues par les instituions financières. L'or est également une contrepartie.
+
+Le crédit interne net : Ce sont les créances sur le trésor public détenues par la banque centrale. L'Etat peut décider d'émettre de nouveaux billets ou pièces de monnaies. Dans ce cas, la banque centrale fait tourner la planche à billets et en contrepartie, elle dispose d'une créance sur le trésor public. Ces créances sont une contrepartie mineure dans la création monétaire. De plus, le trésor public n'est pas à l'origine des décisions de l'augmentation de la masse monétaire. C'est la banque centrale qui décide de la politique monétaire à adopter en fonction du niveau des différents agrégats monétaires souhaité.
+
+Les créances sur l'économie : Ce sont l'ensemble des crédits accordés aux agents économiques par les banques .  En effet faire crédit , c'est accorder un pouvoir d'achat qui à la base n'existait pas.
+
+### Le mutiplicateur et le diviseur de crédit
+
+le mécanisme du multiplicateur: Il a pour intérêt d’expliquer la capacité du système bancaire à augmenter de manière plus que proportionnelle la quantité de monnaie créée. Il met en lumière la relation entre la monnaie centrale et la monnaie créée par les banques de second rang.
+
+乘数机制：这解释了银行系统超过比例地增加货币创造量的能力。它强调了货币基础和二级银行所创造的货币之间的关系。
+
+Pour expliquer le mécanisme, il faut partir d’un certain nombre de données. Supposons qu’un client de la banque LCL demande crédit de 1000 euros et obtient l’accord de la dite banque.  Ces 1000 € de crédit se transforment en 1000 € de dépôt. Supposons que le taux de RO ( réserves obligatoires) encore appelé coefficient de réserve est de 10%. La banque doit alors alimenter son compte à la banque centrale pour un montant de 100€.  La banque  dispose  donc de 900 € de réserves excédentaires, elle va pouvoir les utiliser pour octroyer de nouveaux prêts.
+
+为了解释这个机制，我们需要从一定量的数据开始。假设LCL银行的一个客户要求1000欧元的信贷，并获得了上述银行的同意。 这笔1000欧元的贷款被转换为1000欧元的存款。我们假设RO（准备金要求）比率，也被称为准备金率，是10%。然后，该银行必须在其在中央银行的账户中存入100欧元。 因此，银行有900欧元的超额准备金，它可以用来发放新贷款。
+
+Ces 900€ de crédit créent 900 € de dépôt dans une banque B . Tout comme la précédente, la banque B doit alimenter son compte à la banque centrale de 90 euros, et le reste c’est-à-dire 810€ vont servir de réserves excédentaires. Celles-ci n’étant pas rémunérées par la banque centrale serviront à la banque B pour accorder de nouveaux prêts.
+
+这900欧元的贷款在B银行创造了900欧元的存款。就像前一家银行一样，B银行必须在其在中央银行的账户中增加90欧元，其余的，即810欧元，将被用作超额储备。由于这些储备金没有得到中央银行的报酬，它们可以被B银行用来发放新贷款。
+
+Ces 810 € de crédits vont se traduire en dépôts au profit d’une banque C. Celle-ci va devoir constituer des RO d’une valeur de 81€, il lui restera alors des réserves excédentaires de 729 € qui servent à accorder de nouveaux prêts…
+
+这些810欧元的贷款将转化为有利于C银行的存款。这家银行将不得不建立价值81欧元的投资回报率，留下729欧元的剩余储备，它可以用来发放新的贷款......
+
+Le processus de création monétaire se poursuit et se reproduit de manière identique infiniment.
+La quantité de monnaie créée au final peut-être évaluée. 
+
+货币创造过程继续进行，并以同样的方式无限复制。
+最终创造的货币数量可以被计算出来。
+
+![](./img/multiplicateur.png)
+
+        En constatant que 900 = 1000 ( 1- 10%), que 810 = 1000 ( 1-10%)(1-10%), que 
+        729 = 1000 ( 1-10%)(1-10%)(1-10%)
+        La somme précédente peut s’écrire de la manière suivante:
+        1000 + 1000(1-10%) +1000(1-10%)(1-10%)+1000(1-10%)(1-10%)(1-10%)+....
+        Soit 1000 [ 1+(1-10%)+(1-10%)²+ (1-10%)³+……]
+        = lim 1000( 1- (0.9))^n / (1- 0.9)
+          n→∞
+On est en présence d’une suite géométrique de premier terme 1000 et de raison 0.9
+La lim de cette suite à l’infini est de 10000
+Les 1000 € de dépôts initiaux ont ainsi permis au système bancaire de générer une création monétaire de 10000 €, soit une quantité de monnaie multipliée par 10.
+En notant R le coefficient de réserves obligatoires, on peut déterminer l’expression du multiplicateur de crédit noté M
+M= 1/R
+
+Ce multiplicateur de crédit indique que chaque euro de dépôt peut générer 1/R euro de monnaie supplémentaire. 
+Dans l’exemple précédent, le multiplicateur de crédit est égal à 1/0.1 = 10.
+
+
