@@ -431,4 +431,100 @@ M= 1/R
 Ce multiplicateur de crédit indique que chaque euro de dépôt peut générer 1/R euro de monnaie supplémentaire. 
 Dans l’exemple précédent, le multiplicateur de crédit est égal à 1/0.1 = 10.
 
+### Generalisation et modelisation du modele
+
+    Soit A le dépôt initial et R le taux de RO, il est possible de calculer le supplément de monnaie créée, soit ∆M de la manière suivante:
+
+    ∆M = A+ A ( 1-R)+ A(1-R)²+A(1-R)³+……….+ A(1-R)n
+    ∆M est une suite géométrique dont la somme est égale à S = A[1−(1−R)n/1−(1−R)
+    Lorsque n →∞, cette somme est égale à A/1−(1 −R) = A1/R = AM
+    Avec M = 1/R = 1/1−(1−R)
+
+### LE modele du multiplicateur de credit
+
+Les banques sont confrontées à deux fuites: les réserves obligatoires et les retraits de billets. En tenant compte de cette réalité, supposons à présent que:
+- la masse monétaire , notée M est composée des billets, notés B et des dépôts à vue notés D: On a ainsi M = B + D
+
+货币供应量 现金+活期存款
+
+La base monétaire , notée H, qui par définition correspond au passif de la banque centrale est composée des billets B et des réserves obligatoires notées RO. 
+Dès lors H = B  + RO
+
+货币基础 中央银行的负债,包含现金和存款准备金
+
+货币发行（Currency in Circulation）：这是指由央行发行并流通于公众手中的纸币和硬币的总额。它代表了公众持有的现金，可以用于日常交易。
+
+存款准备金（Reserves）：这是商业银行在央行保留的存款，以满足存款准备金要求。存款准备金是商业银行持有的现金储备，以应对客户提取现金或满足支付结算需求。
+
+货币基础在货币供应链中起着关键的作用。它为商业银行创造货币提供了基础，因为商业银行可以利用存款准备金进行贷款和信用活动。货币基础的规模和增长对经济和货币政策具有重要影响。央行通过控制货币基础的供给来实施货币政策，以达到宏观经济管理的目标，例如控制通胀、促进经济增长等。
+
+Les RO correspondent à une fraction r des dépôts, soit RO = rD
+
+Les billets représentent une proportion b de la masse monétaire, soit : 
+    
+    B = Bm
+
+现金代表货币供应量的一个比例b，即 ： B = Bm
+
+Dès lors, les dépôts constituent le complément à la masse monétaire. 存款构成了货币供应量的其余部分。
+
+Soit 
+        
+    D =(1- b) M
+
+
+
+
+On peut reécrire la base monétaire comme:
+    
+    H = B+RO =bM +rD= bM +r(1-b)M = M[(b+r(1-b)]
+
+La relation entre la masse monétaire et la base monétaire est ainsi établie:
+
+    M = H/b+r ( 1−b) = mH 
+    avec m = 1/b+r(1−b) le multiplicateur de crédit.
+
+La précédente équation montre qu’il existe une relation entre la masse monétaire et la base monétaire. Le multiplicateur de crédit mesure ainsi le rapport entre la masse monétaire et la base monétaire. Cette relation est fonction des facteurs de la liquidité bancaire.
+
+前面的方程式表明，货币供应量和货币基础之间存在着一种关系。因此，信贷乘数衡量的是货币供应量和货币基础之间的关系。这种关系是银行流动性因素的一个函数。
+
+Le modèle du multiplicateur de crédit est critiqué car il ne s’agit que d’une source de création monétaire, l’octroi de crédit, or il existe diverses sources de création monétaire, qui ne sont pas prises en compte par le modèle. Il ne tient pas non plus compte des fuites d’autres formes de monnaie ou placements.
+
+信贷乘数模型被批评为只关注货币创造的一个来源，即发放信贷，而有各种货币创造的来源没有被该模型考虑在内。它也没有考虑到其他形式的货币或投资的流失。
+
+### Banking school versus currency school
+
+La notion de multiplicateur ou de diviseur de crédit renvoie à la question du caractère exogène ou endogène de la monnaie.
+
+信用乘数或除数的概念是指货币是外生的还是内生的问题。
+
+Cette question a divisé les économistes au cours du 19 eme siècle avec d’un côté les partisans de la Banking School ( l’école de la banque)et de l’autre ceux de la Currency School ( l’école de la circulation).
+
+这个问题在19世纪的经济学家中产生了分歧，银行学派是一方，货币学派是另一方。
+
+Pour les partisans de la Currency School, l’offre de monnaie est une variable exogène du fait que la masse monétaire est déterminée par les réserves préalables détenues par les banques de second rang auprès de la banque centrale. C’est donc elle qui en dernier ressort contrôle la création monétaire.
+
+在货币学派看来，货币供应量是一个外生变量，因为货币供应量是由二级银行在中央银行持有的储备金决定的。因此，最终控制货币创造的是中央银行。
+
+Les partisans de la Banking School contestent cette vision qui occulte le rôle des banques de second rang dans le processus de  création monétaire. En effet, ce sont elles qui via le crédit alimente la masse monétaire en circulation. Elles ont donc un rôle actif. Ainsi la relation précédente mise en lumière par le multiplicateur de crédit s’inverse. En accordant des crédits, les banques se retrouvent en situation de besoin de financement qui les oblige à se tourner vers la banque centrale. Dans ce cas, c’est la base monétaire qui s’ajuste à la variation de la masse monétaire. 
+
+银行学派的支持者对这种观点提出异议，因为它掩盖了二级银行在货币创造过程中的作用。事实上，正是他们通过信贷为流通中的货币供应量提供资金。因此，他们发挥着积极的作用。因此，以前由信贷乘数所强调的关系被颠覆了。通过发放信贷，银行发现自己处于需要融资的境地，这迫使他们转向中央银行。在这种情况下，是货币基础根据货币供应量的变化进行调整。
+
+Il découle de ce qui précède le diviseur de crédit, noté d, qui établit une relation entre la masse monétaire et la base monétaire  : H = 1/mM=dM 
+
+这就产生了信贷除数，用d表示，它在货币供应量和货币基础之间建立了一种关系：H=1/mM=dM 
+
+La monnaie est alors considérée comme endogène puisque le refinancement demandé par les banques de second rang à la banque centrale est une fraction 1/m du crédit qu^′elles ont préalablement accordé. C’est donc la vision de la Banking School.
+
+然后，货币被认为是内生的，因为二级银行向中央银行申请的再融资是它们先前发放的信贷的1/m的一部分。这就是银行学派的观点。
+
+Mathématiquement, les notions de multiplicateur et de diviseur de crédit sont assez proches, l’un étant égale à l’inverse de l’autre, elles apparaissent néanmoins comme le reflet de deux conceptions opposées de la monnaie et de son processus de création. Elles impliquent aussi des conceptions différentes en matière de conduite de la politique monétaire.
+
+在数学上，乘数和信贷除数的概念非常相似，一个等于另一个的倒数，但它们似乎反映了对货币及其创造过程的两种对立概念。它们也意味着对货币政策行为的不同概念。
+
+货币的外生性观点是指货币供应是由中央银行通过直接控制决定的，它是一个外部决定因素。按照这种观点，中央银行通过调整货币基础（通常是通过调整存款准备金率或进行开放市场操作）来直接影响货币供应量。乘数的概念与外生性观点相关，它表示基础货币变动对整个货币供应量的乘数效应。例如，如果存款准备金率为10%，那么每增加1单位的基础货币，最终货币供应量可能会增加10单位。
+
+然而，货币的内生性观点认为货币供应量是由商业银行的信贷活动和需求决定的。商业银行通过向借款人提供贷款和发行存款来创造货币。根据这种观点，商业银行的信贷活动驱动货币供应的增长。在这种情况下，商业银行通过贷款创造的存款数量超过了它们持有的储备金数量。这就是除数的概念，它表示每单位的储备金可以支持的货币供应量。
+
+从数学上讲，乘数和除数是相互倒数的关系。如果乘数为m，则除数为1/m。它们反映了对货币的不同理解和货币创造过程的两种观点。这些观点也导致了在货币政策的实施上的不同看法。
 
