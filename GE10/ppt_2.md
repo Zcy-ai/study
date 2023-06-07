@@ -528,3 +528,156 @@ Mathématiquement, les notions de multiplicateur et de diviseur de crédit sont 
 
 从数学上讲，乘数和除数是相互倒数的关系。如果乘数为m，则除数为1/m。它们反映了对货币的不同理解和货币创造过程的两种观点。这些观点也导致了在货币政策的实施上的不同看法。
 
+## La Monnaie Dans la théorie économique
+
+### la théorie quantitative de la monnaie (TQM): 
+
+Elle trouve son origine sans la controverse qui oppose Jean Bodin à J Malestroit au 16 ème siècle. L’objet de la controverse porte sur l’origine de l’augmentation du coût de la vie.
+
+Pour J Bodin, c’est l’accumulation des métaux précieux provenant des colonies qui en est la cause car elle a pour contrepartie une augmentation croissante de la quantité de monnaie en circulation supérieure à la production disponible. Ce que récuse J Malestroit.
+1) l’approche par l’équation de Fischer : C’est Irving Fischer qui élabora le premier la TQM. Il part du constat suivant «  au cours d’une année, le total de la monnaie payée a une valeur totale égale à la valeur total des biens achetés »
+
+Ce constat conduit à la formulation de l’équation des échanges suivantes:
+
+MV = PT avec M désignant la masse monétaire, V, la vitesse de circulation de la monnaie, P le niveau général des prix, et T le volume total des transactions.
+
+M: 代表货币量
+
+V: 代表货币流通速度 indique le nombre de fois où la monnaie change de main au cours d’une période. Un billet de 10 euros par exemple n’est jamais utilisé pour une seule transaction. Il change plusieurs fois de main. 
+
+P: 代表一般价格水平
+
+T: 代表交易总数
+
+MV représente la capacité totale d’achat de la monnaie 
+
+PT représente la valeur totale des biens achetés
+
+La vitesse de circulation dépend des comportements des agents économiques en matière de dépense et d’épargne mais également des habitudes de paiement et des innovations financières.
+
+流通速度取决于经济主体的消费和储蓄行为，但也取决于支付习惯和金融创新。
+
+Fischer pose trois hypothèses pour consolider son modèle d’équation: il suppose qu’à court terme , la vitesse de circulation de la monnaie est constante, l’économie est en situation de plein emploi, les transactions sont donc stables, l’évolution de la masse monétaire est placée sous l’égide des autorités monétaires qui peuvent l’accroître ou la baisser.
+
+费舍尔做了三个假设来巩固他的模型方程：他假设，在短期内，货币速度是恒定的，经济处于充分就业状态，所以交易是稳定的，货币供应量的变化是在货币当局的主持下，他们可以增加或减少。
+
+### Le lien monnaie - inflation
+
+Ces hypothèses ont une implication majeure sur le lien entre masse monétaire et l’évolution du niveau général des prix
+
+这些假设对货币供应量和一般价格水平的变化之间的联系有重大影响
+
+Tout accroissement de la masse monétaire a une répercussion sur le niveau des prix, en d’autre terme l’inflation provient d’une croissance de la masse monétaire.
+
+货币供应量的任何增加都会对价格水平产生连锁反应，换言之，通货膨胀来自货币供应量的增加。
+
+En guise d’exemple, un doublement de la masse monétaire c’est à dire M débouche sur un doublement des prix compte tenu du fait que  V et T sont constants.
+
+举例来说，在V和T不变的情况下，货币供应量增加一倍，即M，会导致价格增加一倍。
+
+### l’approche par l’équation des encaisses de cambridge
+
+Marshall et Pigou, deux économistes britanniques vont s’attacher à reformuler la TQM.
+
+Cette reformulation est rendue nécessaire par le fait que la comptabilité nationale n’est pas en mesure d’évaluer chacune des transactions effectuées au sein d’une économie pendant une période. Elle le fait à partir des quantités agrégées.
+
+由于国民经济核算无法评估一个经济体在一段时期内进行的每一项交易，因此有必要进行这一重新表述。它是在总量的基础上进行的。
+
+Le volume des transactions est ainsi remplacée par la production ou le PIB
+
+因此，交易量被产出或GDP所取代。
+
+L’équation de la TQM devient: 
+
+    MV = PY
+
+Avec Y désignant le PIB réel, PY le PIB nominal, V vitesse de circulation de la monnaie
+
+其中Y是实际GDP，PY是名义GDP，V是货币流通速度。
+
+V est aussi appelé vitesse revenu, il traduit le nombre de fois que la monnaie doit circuler afin d’acheter la production.
+
+V也被称为收入速度，它反映了为了购买产出，货币必须流通的次数。
+
+De l’équation de la TQM, on peut établir une demande de monnaie pour motif de transaction: Md = PY/V ou Md/P = Y/V ou Md/ P = k Y avec k = 1/V
+
+从TQM方程中，我们可以建立一个用于交易目的的货币需求：Md=PY/V或Md/P=Y/V或Md/P=k Y，其中k=1/V。
+
+Cette équation est appelée équation des encaisses de Cambridge. Elle correspond à la demande de monnaie pour le motif de transaction
+
+这个方程被称为剑桥现金方程。它与交易目的的货币需求相对应。
+
+La reformulation de la TQM débouche néanmoins sur la même conclusion: tout accroissement de la MM provoque une augmentation du niveau général des prix.
+
+然而，对MQT的重新表述导致了同样的结论：M的任何增加都会导致一般价格水平的提高。
+
+### l’approche keynésienne du rôle de la monnaie
+
+1) une approche aux antipodes de la précédente: Pour les classique, la monnaie n’est qu’un voile, elle n’a pas d’effet sur les quantités réelles. Une position récusée par Keynes car pour lui, la monnaie est un actif en soi , elle peut de ce fait être demandée pour elle-même en raison de ce qu’il appelle la préférence pour la liquidité.
+
+对于古典主义者来说，货币只是一个面纱，它对实际数量没有影响。凯恩斯拒绝了这一立场，认为货币本身就是一种资产，因此可以为其本身而需求，因为他称之为流动性偏好。
+
+Keynes développe différents motifs de demande de la monnaie: le motif de transaction, le motif de précaution et le motif de spéculation.
+
+凯恩斯为货币需求提出了不同的动机：交易动机、预防动机和投机动机。
+
+Le motif de transaction: les agents économiques conservent de la monnaie pour compenser le décalage entre le moment où ils perçoivent un revenu et celui où ils réalisent une dépense ( consommation , investissement) et effectuent la transaction.
+
+交易动机：经济主体持有货币是为了弥补他们在收到收入和进行支出（消费、投资）以及进行交易之间的时间差。
+
+Le motif de précaution: les agents conservent des liquidités pour faire face à d’éventuelles difficultés financières futures. Keynes considère que plus les ménages peuvent se procurer facilement des liquidités, moins ce motif pèsera dans leur demande de monnaie.
+
+预防性动机：代理人持有流动资产，以防他们在未来遇到财务困难。凯恩斯认为，家庭越容易获得流动资金，这种动机对他们的货币需求的影响就越小。
+
+Le motif de spéculation: il s’agit pour les ménages de la possibilité d’utiliser leurs liquidités à des fins de spéculation.
+
+投机动机：对家庭来说，这是将其流动性用于投机目的的可能性。
+
+### Le revenu et le taux d’intérêt, deux déterminants de la demande de monnaie
+
+Keynes met en avant le revenu et le niveau du taux d’intérêt pour expliquer les différents motifs de demande de monnaie.
+
+凯恩斯提出了收入和利率水平来解释货币需求的不同动机。
+
+Le motif de transaction apparaît comme une fonction croissante du revenu des individus. Plus les individus disposent de revenus élevés, plus ils sont disposés à consacrer une part croissante de leurs revenus pour leurs transactions.
+
+交易动机似乎是个人收入的一个增加函数。人们的收入越高，他们就越愿意把越来越多的收入比例用于交易。
+
+le motif de précaution est lui aussi fonction du revenu. Plus leur niveau est élevé, plus les individus peuvent se prémunir en cas de dépense imprévue. 
+
+预防性动机也是收入的一个函数。他们的水平越高，个人就越能保护自己免受不可预见的支出。
+
+Le motif de spéculation est lié au taux d’intérêt;  Il existe selon Keynes, une relation inverse entre le taux d’intérêt et la demande de monnaie de spéculation. 
+
+根据凯恩斯的观点，利率和投机性货币的需求之间存在着反比关系。
+
+La demande de monnaie de spéculation s’accroît au fur et à mesure que les taux d’intérêt diminue.
+
+当利率下降时，对投机性货币的需求就会增加。
+
+### la trappe à liquidité
+
+La trappe à liquidité, ou piège à liquidité (de l'anglais liquidity trap), est un phénomène économique mis en lumière par Keynes, il se traduit par le fait que  « une fois que le taux d'intérêt a chuté en dessous d'un certain niveau, la préférence pour la liquidité est telle qu'elle devient absolue, dans le sens où presque tout le monde préfère conserver de la monnaie plutôt que de détenir de la dette, du fait du taux d'intérêt si bas »
+
+Ce phénomène s’explique de la manière suivante : lorsque les rendements attendus des investissements en valeurs mobilières ou en biens immobiliers et équipements sont faibles, les investissements chutent, une récession commence et les avoirs en espèces des banques augmentent. Les particuliers et les entreprises continuent alors de détenir des liquidités parce qu'ils s'attendent à ce que les dépenses et les investissements soient faibles, créant ainsi un piège auto-réalisateur. C'est le résultat de ces comportements (individus thésaurisant des liquidités en prévision d'un événement économique négatif) qui rend la politique monétaire inefficace et crée ce que l'on appelle la trappe à liquidité.
+
+流动性陷阱（Liquidity Trap）是宏观经济学中的一个概念，用于描述一种经济情况，其中货币政策失效，无法刺激经济增长和通货膨胀。
+
+在流动性陷阱中，通常发生以下情况：央行通过降低利率来增加货币供应，以刺激经济活动和投资。然而，当经济面临严重的不确定性和悲观预期时，企业和个人可能会持有大量的现金，而不是将其用于投资或支出。这种情况下，降低利率并不能鼓励更多的投资和支出，因为人们更倾向于将资金保留为现金。
+
+在流动性陷阱中，利率已经降至接近零的水平，但经济仍然处于低迷状态。央行的货币政策工具失去了对经济的影响力，因为货币供应增加已无法刺激企业和个人增加支出和投资。此时，经济可能面临通货紧缩风险，因为价格下降和需求疲软。
+
+流动性陷阱的一个关键原因是人们的预期。当人们对经济的未来持悲观态度时，他们更倾向于保留现金，而不是进行支出或投资。这种预期可以形成一种恶性循环，使得降低利率对经济刺激的效果减弱。
+
+应对流动性陷阱的挑战是困扰央行和政策制定者的重要问题。在这种情况下，政府可能需要采取其他货币政策工具或财政政策措施来刺激经济，如增加政府支出或减税，以提高需求并重启经济增长。
+
+## la politique monétaire
+
+La politique monétaire est un instrument de politique économique, elle consiste pour les autorités monétaire à agir sur les conditions de financement de l’économie dans le but  d’influencer l’état de la conjoncture économique, d’améliorer l’état de l’emploi  et de garantir la stabilité des prix.
+
+货币政策是经济政策的一个工具。 对于货币当局来说，它包括对经济的融资条件采取行动，目的是影响经济形势，改善就业和保证价格稳定。
+
+Elle relève des politiques conjoncturelles et ce sont les banques centrales qui ont vocation de la mettre en œuvre , la BCE dans le cadre de la zone euro et la FED aux USA.
+
+它是经济政策的一部分，由中央银行、欧元区的欧洲央行和美国的联邦储备银行实施。
+
