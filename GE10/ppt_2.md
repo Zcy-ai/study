@@ -681,3 +681,73 @@ Elle relève des politiques conjoncturelles et ce sont les banques centrales qui
 
 它是经济政策的一部分，由中央银行、欧元区的欧洲央行和美国的联邦储备银行实施。
 
+### les objectifs et les instruments de la politique monétaire
+
+Plusieurs objectifs sont poursuivis par la politique monétaire, la relance de l’activité économique ou la croissance économique, la stabilité des prix, la lutte contre le chômage ou l’équilibre extérieur. Ses  objectifs sont ceux du carré magique mais ils peuvent évoluer selon les périodes.
+
+货币政策追求一些目标：刺激经济活动或经济增长，价格稳定，消除失业或维持外部平衡。这些目标是魔方的目标，但它们可能在不同时期发生变化。
+
+1) la stabilité des prix est devenue une priorité à partir des années 80
+Les années 70 sont marquées par l’émergence d’un phénomène appelé Stagflation c’est-à-dire la conjugaison d’un chômage de masse avec une inflation élevée
+
+1）价格稳定在80年代成为一个优先事项
+20世纪70年代，出现了一种被称为滞胀的现象，即大规模失业和高通货膨胀的结合。
+
+La courbe de Philipps, c’est-à-dire l’arbitrage inflation chômage ne se vérifie plus. Les monétaristes remettent en scelle la TQM via les travaux de l’économiste américain Milton Friedman. Ils affirment que la lutte contre l’inflation implique un contrôle strict de la création monétaire.
+
+菲利普斯曲线，即通货膨胀与失业的权衡，不再有效了。货币主义者通过美国经济学家米尔顿-弗里德曼（Milton Friedman）的工作为TQM盖上了印章。他们认为，与通货膨胀作斗争需要严格控制货币创造。
+
+![](./img/carre_magique.png)
+
+Les politiques de désinflation compétitive menée en France notamment auront un principal objectif lutter contre l’inflation afin de restaurer la compétitivité-prix de l’économie française.
+
+特别是在法国推行的竞争性去通货膨胀政策将有一个主要目标：打击通货膨胀，以恢复法国经济的价格竞争力。
+
+La création de la BCE avec la venue de l’euro  consacre la stabilité des prix comme objectif principal de la banque européenne. Celle-ci est indépendante du pouvoir politique, elle n’a pas conformément au Traité de Maastricht d’injonctions à recevoir des autorités politiques. 
+
+随着欧元的出现，欧洲央行的成立确立了价格稳定是欧洲银行的主要目标。欧洲央行独立于政治权力，根据《马斯特里赫特条约》，不接受政治当局的命令。
+
+A la lutte contre l’inflation s’ajoute un nouvel objectif à l’actif des banques centrales à partir des années 90,  il s’agit d’assurer la stabilité du système financier dans un contexte marqué par la globalisation financière. Dans ce contexte, les banques centrales jouent le rôle de PDR ( Prêteur en Dernier ressort).
+
+除了对抗通货膨胀，中央银行自20世纪90年代以来还有一个新的目标：在金融全球化的背景下，确保金融系统的稳定。在这种情况下，中央银行扮演着最后贷款人的角色。
+
+### Les instruments de la politique monétaire
+
+Pour contrôler la masse monétaire circulation, la banque centrale dispose d’instruments directs et indirects.
+
+为了控制货币供应量，中央银行有直接和间接的工具可以使用
+
+Les instruments directs visent à agir sur la quantité de monnaie créée tandis que les instruments indirects à influencer la liquidité bancaire.
+
+直接手段旨在影响货币创造的数量，而间接手段旨在影响银行的流动性
+
+L’encadrement du crédit relève des instruments directs. Il s’agit d’une mesure réglementaire et autoritaire qui s’impose aux banques qui doivent respecter un certain pourcentage d’augmentation annuelle des crédits qu’elles accordent à leurs clients.
+
+直接手段包括信贷控制。这是对银行实施的监管和专制措施，银行必须遵守他们给予客户的信贷每年增加一定的百分比。
+
+Cette mesure a été supprimée au milieu des années 80
+
+Un exemple pour illustrer ce cas de figure. Si la banque centrale face à la menace inflationniste décide de resserrer le volume de crédits distribués en augmentant le niveau de son taux directeur. Celui passe de 0.5% à 1.5%, cela veut dire que le financement des banques commerciales subit un surcoût de 1point de %. Pour maintenir leur rentabilité, elles vont devoir proposer à leurs clients des crédits dont le taux d’intérêt sera au moins supérieur ou égal à 1.5%. Face à l’augmentation du loyer de l’argent, certains agents vont renoncer à s’endetter, le volume de crédits distribué va alors baisser ainsi que la masse monétaire en circulation.
+
+这里有一个例子来说明这种情况。如果中央银行面对通货膨胀的威胁，决定通过提高其关键利率水平来收紧信贷分配量。将利率从0.5%提高到1.5%意味着商业银行将不得不为其融资多支付1个百分点。为了保持盈利能力，他们将不得不向客户提供至少1.5%的贷款利率。面对货币成本的增加，一些代理人将决定不承担债务，分配的信贷量将下降，同时流通的货币供应量也将下降。
+
+### L’action sur le marché monétaire
+
+Sur le marché monétaire, la banque centrale peut aussi offrir ( vendre) ou retirer ( acheter) des titres de créance ( billet de trésorerie, obligations privées, bons du trésor..) en contrepartie de monnaie centrale: c’est la politique de l’open market.
+
+在货币市场上，中央银行还可以提供（出售）或提取（购买）债务证券（商业票据、公司债券、国库券等）以换取中央银行的货币：这就是公开市场政策。
+
+Cette offre ou cet achat de monnaie conduit à freiner ou à favoriser la croissance de l masse monétaire.
+
+这种货币的供应或购买减缓或鼓励了货币供应量的增长。
+
+La banque centrale influence ainsi, à la hausse ou à la baisse , le taux du marché monétaire et donc, indirectement, les taux d’intérêt des crédits accordés aux clients des banques.
+
+因此，中央银行向上或向下影响货币市场利率，并因此间接地影响授予银行客户的贷款利率。
+
+Si la banque centrale veut favoriser les crédits , elle procède à l’achat des titres que possèdent les banques commerciales. Cette opération fait augmenter la masse monétaire c’est-à-dire les liquidités disponibles, ce qui favorise la diminution des taux d’intérêt et accroît les possibilités de crédits à l’économie.
+
+如果中央银行想鼓励借贷，它就会购买商业银行持有的证券。这种操作增加了货币供应量，即可用的流动性，这有助于降低利率，增加向经济部门贷款的可能性。
+
+![](./img/politique_monetaire.png)
+
