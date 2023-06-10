@@ -751,3 +751,109 @@ Si la banque centrale veut favoriser les crédits , elle procède à l’achat d
 
 ![](./img/politique_monetaire.png)
 
+### L’action sur les réserves obligatoires
+
+La banque centrale agit aussi sur les RO. Ils désignent les dépôts que les banques sont tenus d’effectuer sur leur compte domiciliés à la banque centrale. Ces montants représentent un pourcentage des dépôts collectés par les banques. En déposant à la banque centrale une fraction des dépôts qu’elles gèrent, les banques commerciales se privent ainsi des moyens d’octroyer de nouveaux crédits.
+
+Le niveau de Ro fixé par la banque centrale dépend de ses objectifs en matière de politique monétaire.
+
+Supposons que la banque centrale augmente le taux de RO en le fixant à 2%. Les implications de cette décision sont les suivantes:  pour chaque crédit accordé les banques sont tenues de déposer à la banque centrale 2% du montant du crédit accordé. Si elle accorde par exemple 2000 euros de crédit, elle doit déposer 40 euros sur son compte à la banque centrale. Plus la banque accorde des crédits, plus elle doit se constituer de réserves obligatoires?
+
+假设中央银行将投资回报率提高到2%。这一决定的影响如下：每发放一笔贷款，银行就必须在中央银行存入所发放贷款金额的2%。例如，如果一家银行发放2000欧元的贷款，它必须在中央银行的账户中存入40欧元。一家银行发放的信贷越多，它必须建立的储备就越多？
+
+Conséquences, les RO ont pour effet de réduire la capacité des banques à offrir des crédits. Elles contribuent à réduire la masse monétaire en circulation dans l’économie.
+
+因此，RO的作用是减少银行提供信贷的能力。它们有助于减少经济中流通的货币供应。
+
+On obtient l’effet inverse en cas de baisse des RO.
+
+如果减少RO，则得到相反的效果。
+
+### Les moyens non conventionnels
+
+Il arrive que dans certaines circonstances que la banque mobilise des moyens qualifiés de non conventionnels . C’est le cas notamment en période de crise économique et financière. Face à l’inefficacité des instruments conventionnels, les banques sont dans l’obligation d’innover, en mobilisant de nouveaux instruments. C’est le cas des politiques d’assouplissement quantitatif appelé Quantitative easing.
+
+在某些情况下，银行可以调动非常规手段。在经济和金融危机时期，情况尤其如此。面对常规手段的无效性，银行不得不通过调动新的手段来进行创新。量化宽松政策就是这种情况。
+
+Ces politiques ont vu le jour dans un contexte marqué par la crise des subprimes.
+
+这些政策是在次贷危机的背景下出台的。
+
+Pour apporter de la liquidité en abondance aux agents économiques, les banques centrales procèdent au rachat massif des obligations d’Etat ou des titres émis par les entreprises ou reprennent les actifs douteux présents dans les bilans des banques.
+
+为了向经济主体提供充足的流动性，中央银行开始大规模回购政府债券或公司发行的证券，或接管银行资产负债表上的可疑资产。
+
+La BCE et  la FED ont eu recours à ce type d’action au cours des deux dernières décennies notamment lors de la crise sanitaire.
+
+在过去的20年里，欧洲央行和FED都使用了这种行动，特别是在健康危机期间。
+
+La BCE compte à son actif depuis 2016, près de 1000 milliards de création monétaire du fait de la politique d’assouplissement quantitatif. Cette création monétaire abondante vise à maintenir le niveau des taux d’intérêt pratiqué par les banques commerciales à un faible niveau. Le but ainsi poursuivi est de stimuler la demande de crédits de la part des agents économiques afin de relancer la consommation et l’investissement, deux moteurs de la croissance économique.
+
+自2016年以来，欧洲央行通过量化宽松政策创造了近1万亿的新货币。这种大量创造货币的目的是保持商业银行的低利率。其目的是刺激经济主体的信贷需求，以促进消费和投资，这是经济增长的两个引擎。
+
+### L’assouplissement quantitatif ou quantitative easing 量化宽松政策
+
+量化宽松政策（Quantitative Easing，简称QE）是一种货币政策，中央银行在较低的利率不能进一步刺激经济增长时采用。该政策主要通过购买政府债券或其他金融资产来增加银行体系的超额储备，以便降低长期利率，鼓励商业银行借款和贷款，从而刺激经济增长。
+
+![](./img/quantitative_easing.png)
+
+### Politique monétaire de relance versus politique monétaire de rigueur ou restrictive
+
+La vision des économistes sur le rôle de la monnaie dans l’économie est traversée par des divergences d’appréciation. Pour les libéraux, la monnaie est neutre, elle n’a pas d’impact sur les variables réelles, elle n’est qu’un voile, il faut donc la contrôler car son émission disproportionnée n’a qu’un effet, celui d’accroître les prix. Ils préconisent par voie de conséquence, une politique monétaire restrictive. Les keynésiens , à l’inverse considèrent que la monnaie peut être désirée pour elle-même, elle a un effet sur l’économie en terme de création d’emplois et de croissance, ils plaident donc pour une politique monétaire de relance.
+
+经济学家对货币在经济中的作用有不同的看法。自由主义者认为，货币是中性的，它对实际变量没有影响，它只是一个面纱，因此必须对它进行控制，因为它的过量发行只有一个效果，那就是提高价格。因此，他们主张采取限制性的货币政策。另一方面，凯恩斯主义者认为，货币可以为其本身所需要。 它对经济有创造就业和增长的作用，因此他们主张采取货币刺激政策。
+
+### la politique monétaire de relance
+
+* qualifiée d’expansive ou d’expansionniste, cette politique consiste à injecter des quantités importantes de liquidités dans l’économie afin de stimuler la croissance et l’emploi.
+* Elle repose sur la baisse des taux d’intérêt afin d’accroître la demande de monnaie.
+* Comme vu précédemment le rôle de la banque centrale dans ce contexte est essentiel.
+* Elle doit mobiliser les instruments appropriés pour accroître l’offre de monnaie ( baisse du taux d’intérêt directeur, baisse des RO)
+
+![](./img/politique_expansive.png)
+
+"货币直升机"是一个比喻性的概念，最初由著名经济学家弗里德曼在1969年提出，用以描述一种理想的刺激消费和经济的方式。这个理论设想，如果政府直接将钱（比喻为从直升机上投下的钱）发给公众，那么人们会有更多的消费资金，
+
+La baisse des taux d’intérêt pratiqués par les banques de second rang favorise alors la demande de crédit des ménages et des entreprises, il s’ensuit une augmentation de la consommation et de l’investissement. Un cercle vertueux voit ainsi le jour, celui-ci  débouche sur l’augmentation de la production et des embauches supplémentaires. 
+
+二级银行收取的利率下降，然后促进了家庭和企业的信贷需求，导致消费和投资的增加。这样就形成了一个良性循环，导致了生产的增加和额外的招聘。
+
+La croissance économique est ainsi stimulée favorisant de ce fait la baisse du chômage.
+
+经济增长因此得到刺激，有助于减少失业。
+
+### les limites des politiques monétaires expansives
+
+En contribuant à la baisse du niveau des taux d’intérêt, cette politique favorise l’endettement des agents économiques en vue de l’acquisition d’actifs immobiliers. L’accroissement de la demande en faveur de ces actifs pousse les prix à la hausse, il peut en résulter des bulles spéculatives dont l’éclatement peut favoriser l’apparition de crises économiques et financières
+
+通过帮助降低利率，这一政策鼓励经济主体举债以获得房地产资产。对这些资产需求的增加推高了价格，这可能导致投机性泡沫，泡沫的破灭会引发经济和金融危机。
+
+Cette politique apparaît donc comme une source d’instabilité financière ( crise des subprimes), elle est aussi à l’origine de l’accroissement des inégalités en matière de patrimoine. La spéculation immobilière contribue à enrichir certains ménages en appauvrissant d’autres.
+
+因此，这一政策似乎是金融不稳定的一个来源（次贷危机），它也是财富不平等现象日益严重的根源。房地产投机使一些家庭更加富有，而使另一些家庭更加贫穷。
+
+Son objectif est la stabilité des prix, pour ce faire, elle cherche à freiner l’évolution de la masse monétaire en limitant la création monétaire par les banques de second rang.
+
+它的目标是价格稳定。 为了实现这一目标，它试图通过限制二级银行的货币创造来减缓货币供应的增长。
+
+La banque centrale mobilise les instruments appropriés pour ce faire: augmentation du taux d’intérêt directeur, hausse des RO.
+
+中央银行使用适当的工具来实现这一目标：提高关键利率，增加投资回报率。
+
+Des mesures de nature à renchérir le coût du crédit et à diminuer la demande de crédits par les agents économiques
+
+可能增加信贷成本和减少经济主体对信贷需求的措施
+
+### Les limites de la politique monétaire de rigueur
+
+Souvent critiquée, cette politique sacrifie les autres objectifs de la politique économique à savoir la croissance, l’emploi, l’équilibre extérieur au profit de la stabilité des prix.
+
+这种政策经常受到批评，它牺牲了经济政策的其他目标，即增长、就业和外部平衡，而有利于价格稳定。
+
+En d’autres termes, les politiques monétaires de rigueur freinent l’activité économique et favorisent par voie de conséquence le chômage.
+
+换句话说，紧缩性货币政策减缓了经济活动，并因此增加了失业。
+
+La hausse des taux d’intérêts résultant de ces politiques alourdit le coût de l’endettement des agents économiques et fragilise certains d’entre eux: risque de faillite pour les entreprises et de surendettement pour les ménages.
+
+这些政策导致的利率上升，增加了经济主体的债务成本，使其中一些主体更加脆弱：公司有破产的风险，家庭有过度负债的风险。
