@@ -857,3 +857,142 @@ En d’autres termes, les politiques monétaires de rigueur freinent l’activit
 La hausse des taux d’intérêts résultant de ces politiques alourdit le coût de l’endettement des agents économiques et fragilise certains d’entre eux: risque de faillite pour les entreprises et de surendettement pour les ménages.
 
 这些政策导致的利率上升，增加了经济主体的债务成本，使其中一些主体更加脆弱：公司有破产的风险，家庭有过度负债的风险。
+
+### La politique monetaire de la bce
+
+#### Les objectifs de la politique monétaire de la BCE :
+
+En Europe, les décisions de politique monétaire sont prises par le Banque centrale européenne tandis que leur mise en œuvre est assurée par les banques centrales nationales, le tout formant le Système européen de Banques centrales ( SEBC). Le traité de Maastricht dispose que l’objectif principal de la politique monétaire est de maintenir la stabilité des prix et que sans préjudice de cet objectif, le SEBC apporte son soutien aux politiques économiques générales de la Communauté européenne.
+
+在欧洲，货币政策决定由欧洲中央银行作出，并由国家中央银行执行，形成欧洲中央银行系统（ESCB）。马斯特里赫特条约》规定，货币政策的首要目标是保持价格稳定，在不影响这一目标的情况下，ESCB应支持欧洲共同体的一般经济政策。
+
+#### Modalités et techniques d’application de la politique monétaire:
+
+La politique monétaire européenne passe par le seul canal du taux d ’intérêt.
+
+欧洲的货币政策完全通过利率进行。
+
+La BCE fait ainsi varier le taux d’intérêt de façon à dissuader les banques à accorder trop de crédits qui sont source d’inflation, en fonction des anticipations d’inflation qu’elle réalise.
+
+欧洲央行根据其通货膨胀预测，以阻止银行发放过多的信贷的方式来改变利率，这是通货膨胀的一个来源。
+
+Les prévisions d’inflation résultent de l’observation d’une large gamme d’indicateurs économiques et financiers ( les agrégats monétaires M 3 notamment).
+
+通货膨胀预测是基于对广泛的经济和金融指标（特别是M3货币总量）的观察。
+
+Pour conduire sa politique monétaire, la BCE définit un taux directeur qui a pour nom le taux de Refi ( comme refinancement). Ce taux est ainsi qualifié de directeur parce que les banques se calent sur lui pour établir les taux à court terme puis à long terme de leurs propres crédits;
+
+为了执行其货币政策，欧洲央行设定了一个称为Refi利率（用于再融资）的关键利率。这个利率被称为关键利率，因为银行用它来设定自己贷款的短期和长期利率；
+
+Ce taux a de multiples incidences sur l’économie des pays membres de la zone euro: il conditionne le montant des crédits accordés, les prix des actifs, le niveau des intérêts à payer sur la dette de l’Etat ( la charge de la dette), et le montant des entrées et des sorties de capitaux entre le pays et le reste du monde.
+
+这个利率对欧元区成员国的经济有多种影响：它决定了信贷发放量、资产价格、政府债务的利息水平（债务负担），以及该国与世界其他国家之间的资本流入和流出量。
+
+La BCE a aussi recours à l’assouplissement quantitatif ( politique monétaire non conventionnelle ou quantitative easing) en période de défiance généralisée. En effet, relancer le crédit donc l’économie lorsque le niveau des taux d’intérêt est proche de zéro relève d’une difficulté insurmontable. Ce phénomène connu sous le nom de « trappe à liquidité » pénalise l’investissement et la croissance économique. 
+
+欧洲央行在普遍不信任的情况下也会采取量化宽松政策。这是因为，当利率接近零时，要恢复信贷，从而恢复经济，是不可逾越的困难。这种现象被称为 "流动性陷阱"，会对投资和经济增长造成惩罚。
+
+Pour palier le risque de trappe à liquidité, la BCE canalise son offre de monnaie en direction des Etats. Elle a ainsi recours à une monétisation des dettes publiques. Cette politique se traduit ainsi par l’acquisition massive de titres publics par la BCE. 
+
+为了减轻流动性陷阱的风险，欧洲央行将其货币供应输送给政府。它通过将公共债务货币化来做到这一点。这一政策的形式是欧洲央行大量购买政府证券。
+
+La monétisation peut-être directe ou indirecte.
+
+货币化可以是直接或间接的。
+
+La monétisation directe est une situation où la BCE achète et met sur son bilan des quantités importantes de dette publique.
+
+直接货币化是指欧洲央行购买大量的公共债务并将其放在其资产负债表上。
+
+La monétisation indirecte est, elle, une situation où les banques commerciales achètent et mettent dans leur bilan des quantités importantes de dette publique. Elles peuvent ensuite les revendre à la BCE afin de se refinancer via les politiques d’open market.
+
+另一方面，间接货币化是指商业银行购买大量的政府债务，并将其放在其资产负债表上。然后他们可以通过公开市场政策将这些东西卖给欧洲央行，为自己再融资。
+
+Les politiques d’assouplissement quantitatif ne sont pas systématiquement source de création monétaire si les achats de titres ou les crédits aux banques sont stérilisés. Dans ce cas, la Banque centrale retire du marché monétaire l’équivalent de ce qu’elle injecte par ailleurs.
+
+如果对证券的购买或对银行的贷款被消毒，量化宽松政策在系统上并不是货币创造的来源。在这种情况下，中央银行从货币市场提取的金额相当于它在其他地方注入的金额。
+
+直接货币化（monétisation directe）是指欧洲央行（BCE）直接购买大量的政府债务，并将其列入其资产负债表。这意味着央行直接将货币注入经济体系，以购买国债来融资政府支出。
+
+间接货币化（monétisation indirecte）则是指商业银行（commercial banks）购买大量的政府债务，并将其计入其资产负债表。随后，它们可以将这些债券出售给欧洲央行，通过公开市场政策进行再融资，即向央行提供债券以获得现金。
+
+需要注意的是，量化宽松政策（quantitative easing）并不一定会导致货币创造，这取决于是否对央行的购买进行消毒（sterilisation）。如果央行通过一些措施抵消其购买债券或向银行提供的贷款所带来的影响，从市场上回收了等量的货币，那么货币供应量就没有实际增加。
+
+
+
+## LES RELATIONS MONETAIRES ET FINANCIERES INTERNATIONALES
+
+La multiplication des échanges à l’intérieur d’un pays rend indispensable l’utilisation d’une monnaie nationale, il en va de même dans le cadre des échanges internationaux: le recours à un moyen de paiement international.
+
+一个国家内部贸易的激增使得使用国家货币变得非常重要，就像在国际贸易中使用一种国际支付手段一样。
+
+Depuis le début du 19 ème siècle des système monétaires internationaux se sont succédés afin de répondre aux exigences du commerce international.
+
+自19世纪初以来，为了满足国际贸易的要求，一系列的国际货币体系已经被开发出来。
+
+### Le système de l’etalon-or
+
+Ce système découle des système monétaires nationaux qui étaient basés sur l’or. Il avait les caractéristiques suivantes:
+
+这一体系源于以黄金为基础的国家货币体系。它有以下特点：
+
+L’or a une fonction d’étalon: chaque monnaie est définie par un poids d’or
+Les monnaies sont convertibles en or, ce qui limite la création monétaire et assure la confiance des agents économiques
+
+黄金作为一种标准：每一种货币都由黄金的重量来定义。货币可以兑换成黄金，这限制了货币的创造，确保了经济主体的信心。
+
+Le moyen de paiement international est l’or, mais les règlements en monnaies nationales convertibles en or ne sont pas exclues
+
+黄金是国际支付手段，但也不排除以可兑换为黄金的国家货币进行支付。
+
+Durant l’entre deux guerres le système monétaire international éclate en plusieurs sous-systèmes: la zone livre sterling, la zone dollar et le bloc or regroupant les pays restés fidèles à l’or, dont la France.
+
+在战时，国际货币体系分裂成几个子系统：英镑区、美元区和由包括法国在内的仍然忠于黄金的国家组成的黄金集团。
+
+### Le SMI issu des accords de Bretton woods
+
+La conférence de BW réunie en 1944 a pour but de créer un nouveau système monétaire international (SMI )qui pourrait restaurer la confiance. Les Etats Unis imposent alors un rôle central au dollar. Les principes de ce système sont les suivants:
+
+1944年BW会议的目的是建立一个新的国际货币体系（IMS），以恢复信心。美国对美元强加了一个核心作用。这个体系的原则如下：
+
+C’est un système de parités fixes: chaque monnaie a un taux de change fixe avec le dollar( avec une marge de fluctuation de plus ou moins 1%) et le dollar a un taux de change fixe avec l’or ( 35 dollars l’once d’or). L’or conserve donc une fonction d’étalon, par l’intermédiaire du dollar, toute monnaie a une parité or.
+
+这是一个固定的平价体系：每种货币与美元有一个固定的汇率（波动幅度为正负1%），美元与黄金有一个固定的汇率（每盎司黄金35美元）。因此，黄金保留了其作为标准的功能，通过美元，每种货币都有一个黄金平价。
+
+Chaque monnaie est convertible en dollar et en n’importe quelle autre monnaie mais seul le dollar est convertible en or. Le dollar a donc le rôle d’une monnaie internationale mais il est garanti en dernier ressort l’or.
+
+每种货币都可以兑换成美元和任何其他货币，但只有美元可以兑换成黄金。因此，美元具有国际货币的作用，但黄金是最终保障。
+
+Le FMI est crée afin d’aider les pays déficitaires et de limiter les éventuelles dévaluations.
+
+国际货币基金组织的建立是为了帮助有赤字的国家并限制可能的贬值。
+
+Les pays membres doivent verser au FMI une contribution ou quote-part déterminée en fonction de leur poids économique.
+
+成员国必须向国际货币基金组织支付根据其经济比重确定的会费或配额。
+
+### Une certaine stabilité puis intervient la crise
+
+Les débuts sont difficiles liés notamment à la pénurie de dollars. Le système est toutefois souple, les dévaluations sont autorisées.
+
+它有一个坎坷的开始，特别是由于美元的短缺。然而，这个系统是灵活的，贬值是被授权的。
+
+L’expansion économiques des années 50 et 60 permet à l’Europe de se constituer des réserves en dollars.
+
+50年代和60年代的经济扩张使欧洲能够建立起美元储备。
+
+A cause des aides économiques et militaires et de sorties de capitaux , la balance des paiements des USA devient déficitaire. Le dollar devient abondant mais il demeure malgré tout «  aussi bon que l’or ».
+
+由于经济和军事援助以及资本外流，美国的国际收支出现了赤字。美元变得充足，但仍然 "像黄金一样好"。
+
+Progressivement la quantité de dollars détenue à l’extérieur des Etats-Unis devient largement supérieure au stock d’or américain. Cette situation crée une défiance et accroît les conversions de dollars en or.
+
+渐渐地，在美国境外持有的美元数量变得比美国的黄金存量大得多。这种情况造成了不信任，增加了美元对黄金的兑换。
+
+En 1949, les USA détenaient plus de 80% des réserves mondiales d’or, en 1971, cette part ne représente que 31%. 
+
+1949年，美国持有世界黄金储备的80%以上；到1971年，这一比例下降到只有31%。
+
+Ne pouvant faire face aux demandes croissantes de conversion de dollars en or, le président Nixon décide unilatéralement l’inconvertibilité du dollar en or en août 1971.
+
+Cette décision met fin au SMI issu des accords de BW et conduit au flottement généralisé des monnaies.
