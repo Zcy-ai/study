@@ -996,3 +996,143 @@ En 1949, les USA détenaient plus de 80% des réserves mondiales d’or, en 1971
 Ne pouvant faire face aux demandes croissantes de conversion de dollars en or, le président Nixon décide unilatéralement l’inconvertibilité du dollar en or en août 1971.
 
 Cette décision met fin au SMI issu des accords de BW et conduit au flottement généralisé des monnaies.
+
+### Le marche et les systemes de change
+
+Les échanges internationaux de biens ou de services se réalisent entre des agents résidents mais dans des pays ayant chacun sa propre monnaie. Ces échanges nécessitent un échange de monnaies que l’on appelle devises et se réalisent sur le marché des changes. 
+
+商品和服务的国际贸易发生在各自拥有自己货币的国家的居民代理人之间。这些交流需要交换货币，这在外汇市场上进行。
+
+Le Forex est le marché des devises sur lequel les différentes monnaies étrangères sont achetées et vendues. Ce marché est dominé par le dollar qui est la principale monnaie utilisée dans les transactions internationales, soit 90% des opérations de change dans le monde.
+
+外汇市场是购买和出售外国货币的货币市场。这个市场由美元主导，它是国际交易中使用的主要货币，占全世界外汇交易的90%。
+
+### La fixation du taux de change
+
+Le taux de change est le prix d’une monnaie en une autre monnaie. Ce prix est fixé sur le marché des changes en fonction de l’offre et de la demande.
+
+汇率是一种货币对另一种货币的价格。这个价格是在外汇市场上根据供求关系确定的。
+
+Il existe deux façons de le présenter:
+
+La cotation au certain indique la quantité x d’unités monétaires étrangères correspondant à une unité monétaire nationale. Par exemple , 1 euro = 2 dollars;
+
+某一价格的报价表示一个国家货币单位所对应的外国货币单位的数量x。例如，1欧元=2美元；
+
+La cotation à l’incertain donne au contraire la quantité x d’unités monétaires nationales correspondant à une unité monétaire étrangère. Par exemple , 1 dollar = 0.98 euro.  Elle était utilisée en France et sur les principales places européennes avant l’arrivée de l’euro.
+
+相反，不确定的报价给出了一个外国货币单位所对应的本国货币单位的数量x。例如，1美元=0.98欧元。 在欧元到来之前，这种方法在法国和欧洲主要市场上使用。
+
+Toutes les monnaies ne sont pas convertibles. La convertibilité d’une monnaie est la possibilité de l’échanger contre une autre monnaie ( devise) ou contre un métal précieux comme l’or, c’est-à-dire d’obtenir sa contre-valeur à tout moment.
+
+并非所有的货币都是可兑换的。一种货币的可兑换性是指将其兑换成另一种货币或黄金等贵金属的可能性，即在任何时候获得其等值。
+
+On distingue deux types de convertibilité: générale d’un côté et limitée de l’autre.
+
+有两种类型的可兑换性：一般和有限。
+
+Dans le premier cas, toutes les opérations commerciales et financières sont éligibles
+
+在第一种情况下，所有商业和金融交易都有资格。
+
+Dans le second cas, la convertibilité est limitée aux opérations courantes ( commerciales) et pas pour les opérations en capital.
+
+在第二种情况下，可兑换性仅限于当前（商业）交易，而不包括资本交易。
+
+第一种类型是一般可兑换性，指的是货币可以在所有商业和金融交易中自由兑换。这意味着人们可以随时将该货币兑换为其他货币或贵金属。
+
+第二种类型是有限可兑换性，指的是货币的兑换仅限于日常商业交易，而不能用于资本交易。这意味着货币可能存在一些限制或管制，不允许自由地将其转换为其他货币或用于资本流动。
+
+### Les systemes de change
+
+Il existe deux systèmes de change: les changes fixes et les changes flottants
+
+有两种汇率制度：固定汇率和浮动汇率。
+
+Le système de changes fixes se caractérisent par le fait que:
+
+Chaque devise a un taux de change officiel, une parité, exprimée par rapport à un étalon de référence ( l’or, une devise ou encore un panier de monnaies) et fixée par les autorités monétaires. Exemple, le système monétaire européen (SME), ancêtre de l’euro
+
+每种货币都有一个官方汇率，即平价，相对于一个参考标准（黄金、一种货币或一篮子货币）表示，由货币当局制定。例如，欧洲货币体系（EMS），是欧元的前身。
+
+Chaque banque centrale doit intervenir sur le marché des changes et maintenir le prix officiel de sa monnaie par des achats ou des ventes de devises. Elle doit pour cela détenir des réserves de changes (devises).
+
+每个中央银行必须干预外汇市场，并通过购买或出售外国货币来维持其货币的官方价格。要做到这一点，它必须持有外汇储备。
+
+Lorsque la parité ne peut plus être maintenue, par exemple en raison d’un déséquilibre de balance courante, il est nécessaire de corriger cette parité et procéder ainsi à un réajustement monétaire ( dévaluation ou réévaluation).
+
+当平价不能再维持时，例如，由于经常账户失衡，有必要纠正平价并进行货币再调整（贬值或重估）。
+
+Dans le cas d’un système de changes flottants, il n’ y a pas d’étalon et il n’existe pas de parité officielle. 
+
+在浮动汇率制度中，没有标准，没有官方平价。
+
+Le taux de change de la monnaie fluctue sur le marché des changes en fonction de l’offre et de la demande pour cette monnaie: elle s’apprécie ou se déprécie librement.
+
+货币的汇率根据该货币的供求关系在外汇市场上波动：它自由升值或贬值。
+
+La banque centrale peut intervenir mais cela n’est pas obligatoire
+
+中央银行可以进行干预，但没有义务这样做。
+
+Le régime est dit « pur » lorsque le marché seul fixe le taux de change de la monnaie.
+
+当市场单独设定货币汇率时，该系统被称为 "纯粹"。
+
+Le flottement est dit «  impur » ou «  administré » lorsque les banques centrales interviennent pour orienter vers des taux de change souhaités.
+
+当中央银行进行干预以引导货币走向理想的汇率时，浮动被称为 "不纯 "或 "管理"。
+
+### Les déterminants des taux de change.
+
+Le rôle du solde de la balance des paiements: la balance des paiements d’un pays récapitule toutes les opérations avec le RDM. Si son solde est excédentaire, cela signifie que la monnaie est plus demandée qu’offerte, ce qui conduit à une appréciation de la monnaie.
+
+国际收支的作用：一个国家的国际收支总结了它与reste du monde的所有交易。如果余额为盈余，这意味着对货币的需求多于供应，这导致货币升值。
+
+A l’inverse, une balance déficitaire conduit à une dépréciation monétaire car la monnaie nationale est davantage offerte que demandée sur le marché des changes.
+
+反之，逆差导致货币贬值，因为本国货币在外汇市场上的报价高于需求。
+
+Pour analyser les déterminants de la valeur des monnaies, il faut donc examiner les deux principales composantes de la balance des paiements: le compte des transactions courantes et le compte financier.
+
+因此，为了分析货币价值的决定因素，我们需要研究国际收支的两个主要组成部分：经常账户和金融账户。
+
+![](./img/balance_paiement.png)
+
+在国际收支中，有三个主要组成部分：经常账户（current account）、资本账户（capital account）和金融账户（financial account）。
+
+1. 经常账户（Current Account）：
+经常账户记录了一个国家与其他国家之间的商品贸易、服务贸易、收入和转移等经常性交易。具体包括以下几个方面：
+- 商品贸易：国家的出口和进口商品的价值。
+- 服务贸易：国家的出口和进口服务的价值，如旅游服务、运输服务、咨询服务等。
+- 收入：包括国家居民从国外获得的工资、利息、股息和利润等收入，以及对外支付给国外居民的类似收入。
+- 转移：涉及无对应物质价值交换的资金转移，如国际援助、移民汇款等。
+
+经常账户的盈余或逆差反映了一个国家在经常性交易中的净收入或支出。经常账户盈余意味着国家的出口、服务收入等超过了进口、服务支出等，而逆差则表示相反的情况。
+
+2. 资本账户（Capital Account）：
+资本账户记录了资本流动和非金融资产的转移。它主要包括以下内容：
+- 直接投资：指企业或个人在国外购买或设立子公司、分支机构等直接投资活动。
+- 证券投资：指购买和出售股票、债券等金融证券的投资活动。
+- 长期借贷：指国家之间的长期借款和贷款活动。
+- 不动产投资：指国际上的房地产购买和出售等活动。
+- 知识产权交易：包括技术转让、专利权购买等知识产权相关交易。
+
+资本账户记录了资本的跨国流动和非金融资产的转移，以及与之相关的金融和非金融交易。
+
+3. 金融账户（Financial Account）：
+金融账户记录了国家之间的金融资产和金融负债的净流入或净流出。主要包括以下内容：
+- 外国直接投资：外国企业或个人对本国的直接投资活动。
+- 证券投资：包括股票、债券等证券的跨国投资和交易。
+- 其他投资：包括存款、贷款、债务等其他金融资产和负债的交易。
+- 外汇储备：
+
+国家央行持有的外汇储备资产。
+
+金融账户反映了资本的跨国流动和金融资产的净流入或净流出情况。
+
+这些账户的综合变化决定了国际收支的平衡情况，从而影响一个国家的货币价值。经常账户和资本账户的总和通常与金融账户保持平衡。
+
+Le solde de la balance des transactions courantes est fonction de la croissance économique du pays, de la croissance des pays partenaires et de sa compétitivité. En effet plus la croissance économique de l’économie nationale est forte plus le pays a tendance à importer, et plus la situation économique des pays partenaires est bonne, plus ceux-ci importent et le pays est compétitif, plus il a la capacité de gagner des parts de marché à l’exportation. Tous ces facteurs ont une incidence sur le solde de la BTC.
+
+经常项目的平衡取决于国家的经济增长、伙伴国的增长和竞争力。国民经济增长越强劲，该国就越有可能进口，而伙伴国的经济状况越好，它们的进口就越多，该国的竞争力越强，就越有可能赢得出口市场份额。所有这些因素都会对BTC的平衡产生影响。
