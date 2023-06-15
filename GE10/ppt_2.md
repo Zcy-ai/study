@@ -1136,3 +1136,117 @@ Pour analyser les déterminants de la valeur des monnaies, il faut donc examiner
 Le solde de la balance des transactions courantes est fonction de la croissance économique du pays, de la croissance des pays partenaires et de sa compétitivité. En effet plus la croissance économique de l’économie nationale est forte plus le pays a tendance à importer, et plus la situation économique des pays partenaires est bonne, plus ceux-ci importent et le pays est compétitif, plus il a la capacité de gagner des parts de marché à l’exportation. Tous ces facteurs ont une incidence sur le solde de la BTC.
 
 经常项目的平衡取决于国家的经济增长、伙伴国的增长和竞争力。国民经济增长越强劲，该国就越有可能进口，而伙伴国的经济状况越好，它们的进口就越多，该国的竞争力越强，就越有可能赢得出口市场份额。所有这些因素都会对BTC的平衡产生影响。
+
+Le solde du compte financier dépend principalement des perspectives de profit des investissements directs à l’étranger (IDE). Lorsque les investisseurs espèrent des profits élevés, ils font le choix d’investir dans le pays, dans ce cas il y a des entrées de capitaux, cela modifie le solde du compte financier.
+
+金融账户的平衡主要取决于外国直接投资（FDI）的利润前景。当投资者期望获得高额利润时，他们会选择在该国投资。 在这种情况下，会有资本流入，从而改变金融账户的平衡。
+
+Le taux de change dépend de la parité des pouvoirs d’achat: Selon un économiste du début du 20 ème siècle, Gustave Cassel, la valeur externe de la monnaie est déterminée par son pouvoir d’achat interne, c’est-à-dire la quantité de marchandises qu’elle permet d’acquérir. 
+
+汇率取决于购买力平价：根据20世纪初的经济学家古斯塔夫-卡塞尔的观点，一种货币的外部价值由其内部购买力决定，即它能购买的商品数量。
+
+Selon la loi du prix unique les prix des marchandises échangeables sur le marché international doivent être identiques dans tous les pays.
+
+根据一价定律，在国际市场上交易的商品的价格在所有国家都必须是相同的。
+
+On en déduit que le taux de change entre deux :monnaies est déterminé par le rapport du niveau général des prix dans les deux pays.
+
+这意味着，两种货币之间的汇率由两国的一般价格水平的比率决定。
+
+Il est donc possible d’établir un lien de cause à effet entre la variation des prix et celle du taux de change. Un pays en proie à une inflation forte verra, en vertu de ce qui précède, le taux de change de sa monnaie se déprécier et inversement.
+
+因此，有可能在价格变动和汇率变动之间建立一种因果关系。一个经历高通货膨胀的国家，由于上述原因，其货币的汇率会贬值，反之亦然。
+
+Le taux de change dépend aussi de la parité des taux d’intérêt: Lorsque les taux d’intérêt sont plus élevés dans un pays, les capitaux s’y dirigent prioritairement. Cela induit une augmentation de la demande de la monnaie du pays et par voie de conséquence une appréciation du taux de change de sa monnaie et inversement. 
+
+汇率也取决于利率平价：当一个国家的利率较高时，资本会优先流向该国。这导致对该国货币的需求增加，从而导致该国货币的汇率升值，反之亦然。
+
+Le différentiel d’intérêt et le différentiel d’inflation apparaissent comme des déterminants essentiels du taux de change des monnaies. 
+
+利息差和通货膨胀差似乎是货币汇率的基本决定因素。
+
+La conjonction des mécanismes de parité des taux d’intérêt et de parité des pouvoirs d’achat peut être à l’origine d’un mécanisme de surréaction. En effet, à court terme les taux de change s’alignent sur le différentiel d’intérêt, ce qui veut dire que si un pays a des taux d’intérêt sa monnaie va se déprécier mais cette faiblesse des taux d’intérêt va alimenter la création monétaire et favoriser à terme l’inflation, ce qui par le mécanisme des pouvoirs d’achat accentuer la dépréciation de sa monnaie (surréaction).
+
+利率平价和购买力平价的结合，会导致过度反应机制的出现。在短期内，汇率与利率差是一致的，这意味着如果一个国家的利率低，其货币将贬值，但这种低利率将助长货币创造，最终鼓励通货膨胀，通过购买力机制将加剧其货币的贬值（过度反应）。
+
+Selon le niveau de son taux de change, une devise va être considérée comme faible ou forte. 
+
+根据其汇率水平，一种货币将被视为弱势或强势。
+
+Généralement une monnaie va être considérée comme forte lorsque une unité monétaire nationale permet d’obtenir plus d’une unité monétaire étrangère. Lorsque par exemple, un euro permet d’obtenir plus d’un dollar, la monnaie unique européenne se voit attribuer le statut de monnaie forte. C’est la situation qui prévaut depuis de nombreuse années, celle-ci a de nombreuses implications économiques et financières. 
+
+一般来说，当一个国家货币单位可以兑换一个以上的外国货币单位时，一种货币被认为是强势货币。例如，如果一个欧元可以兑换超过一个美元，那么单一的欧洲货币就被认为是一种强势货币。这是多年来普遍存在的情况，产生了许多经济和金融影响。
+
+Inversement, lorsque une unité monétaire nationale permet d’obtenir moins d’une unité monétaire étrangère ( devise), la monnaie nationale est considérée comme faible par rapport à la devise impliquée dans l’opération de conversion.
+
+相反，当一个国家货币单位用于获得少于一个外国货币单位时，与参与转换操作的货币相比，国家货币被认为是弱势货币。
+
+Avantages d une monnaie forte
+
+* Elle réduit le coût des importations et favorise de ce fait la désinflation importée. 它降低了进口的成本，从而鼓励进口的通货膨胀。
+* Facile les opérations d’investissement dans les pays à monnaie faible et par voie de conséquence l’internationalisation des entreprises nationales
+使得在弱币国家投资更容易，并因此使本国公司国际化。
+* Les nationaux disposent d’un pouvoir d’achat plus élevé lorsqu’ils séjournent dans les pays à monnaie faible. 国民在低货币国家停留时，有更大的购买力。
+* La monnaie génère des surprofits pour les entreprises dotée d’une compétitivité hors-prix ou structurelle 货币为具有非价格或结构性竞争力的公司带来了剩余利润。
+
+Inconvénients d une monnaie forte
+
+* Les prix des produits nationaux sur les marchés internationaux ont tendance à être plus élevés. Il y a risque de perte de compétitivité-prix et des parts de marché. 国内产品在国际市场上的价格往往较高。存在失去价格竞争力和市场份额的风险。
+* Baisse des investissements directs dans le pays, trop coûteux pour les investisseurs étrangers de pays à monnaie faible. 在国内的直接投资减少，对来自货币疲软国家的外国投资者来说成本太高。
+* Risque de baisse du tourisme et de suppression des emplois liés à ce secteur. 旅游业下降的风险，以及与该部门相关的工作机会的丧失。
+
+Avantages d’une monnaie faible
+
+* Les prix des produits nationaux libellés en devises diminuent, il y a donc gain de compétitivité-prix de l’économie nationale. Le commerce extérieur gagne en dynamisme, des emplois sont ainsi créés. 以外币计价的国内产品价格下降，使国民经济在价格方面更具竞争力。对外贸易变得更有活力，并创造了就业机会。
+
+* Le pays gagne aussi en attractivité en matière d’investissement et en tourisme. Ce qui favorise la croissance économique 国家对投资和旅游也更有吸引力。这促进了经济增长
+
+Inconvénients d’une monnaie faible
+
+Les importations ont tendance à être onéreuses, ce qui favorise l’inflation importée. Pour un pays largement dépendant des importations, ce cas de figure a un impact très négatif sur le solde de la balance commerciale 进口往往是昂贵的，这鼓励了进口通货膨胀。对于一个严重依赖进口的国家，这对贸易平衡有非常不利的影响。
+
+### Les effets de l a dévaluation ou de la dépréciation d’une monnaie
+
+Lorsqu’un pays souffre d’un déficit en matière de compétitivité, la tentation est de voir dans la dévaluation ou la dépréciation monétaire une solution miracle aux difficultés rencontrées.
+
+当一个国家出现竞争力不足时，人们会把贬值或货币贬值视为解决所遇困难的奇迹。
+
+Néanmoins les effets positifs de la dévaluation sur la balance commerciale ne sont pas immédiats. Dans les premiers mois qui suivent une dévaluation, les effets-prix ( hausse du prix des importations) l’emportent sur les effets volume ( baisse du volume des importations et hausse de celui des exportations) plus lents à se manifester.
+
+然而，货币贬值对贸易平衡的积极影响并非立竿见影。在贬值后的头几个月，价格效应（较高的进口价格）超过了数量效应（较低的进口量和较高的出口量），后者需要较长时间才能显现。
+
+Compte tenu de ces éléments, la dépréciation induit initialement une dégradation du solde de la balance commerciale.
+
+鉴于这些因素，贬值最初会导致贸易平衡的恶化。
+
+Dans un deuxième temps, l’augmentation du volume des exportations et la diminution de celui des importations ( l’effet-volume) prennent le dessus sur l’effet-prix initial, ce qui a pour effet d’améliorer le solde commercial d’où le nom de la courbe en J.
+
+在第二阶段，出口量的增加和进口量的减少（数量效应）取代了最初的价格效应，导致了贸易平衡的改善，因此被称为J曲线。
+
+Le délai nécessaire pour que la balance commerciale bénéficie d’une amélioration débouchant sur un solde positif est compris entre six mois et un an.
+
+贸易平衡的改善需要6个月到1年的时间，最终实现正的平衡。
+
+### La mise en place de l’union monétaire europeenne
+
+A la suite de l’effondrement du SMI issu des accords de Bretton Woods, les pays européens ont tenté de créer un  de stabilité des taux de change. Ce fut le serpent monétaire en 1972, le système monétaire européen (SME) et enfin l’Union Monétaire Européenne ( UME).
+
+布雷顿森林国际货币体系崩溃后，欧洲国家试图建立一个汇率稳定的体系。这就是1972年的货币蛇，欧洲货币体系（EMS）和最后的欧洲货币联盟（EMU）。
+
+Le fonctionnement du SME : son but stabiliser les taux de change des monnaies européennes, chaque a une parité avec l’ECU (European Currency Unit), les taux de change entre monnaies fluctuent à l’intérieur des marges de fluctuation en l’occurrence +/- 2.5%. Les banques centrales doivent intervenir pour contenir les monnaies à l’intérieur des marges de fluctuation.
+
+欧洲货币体系是如何运作的：其目的是稳定欧洲货币的汇率，每种货币都与ECU（欧洲货币单位）平价。 货币之间的汇率在+/-2.5%的波动幅度内波动。中央银行必须进行干预，以保持货币在波动幅度内。
+
+### Le passage a la monnaie unique
+
+Les attaques répétées contre le SME ont conduit à la création de la monnaie unique. 
+
+对EMS的反复攻击导致了单一货币的建立。
+
+La monnaie unique confère des avantages aux pays de la zone euro: elle permet de supprimer les inconvénients liés au besoin de conversion de la monnaie nationale en devises, elle met fin au risque de change et facilite la comparaison des prix par les consommateurs et encourage ce faisant les échanges entre membres de la zone euro.
+
+单一货币给欧元区国家带来了好处：它消除了与需要将本国货币兑换成外国货币有关的缺点，它结束了汇率风险，使消费者更容易比较价格，从而鼓励欧元区成员之间的贸易。
+
+L’adoption de la monnaie unique implique des contraintes de nature budgétaire et financière : les pays doivent limiter leurs déficits et le niveau de leur endettement
+
+采用单一货币意味着预算和财政限制：各国必须限制其赤字和债务水平。
