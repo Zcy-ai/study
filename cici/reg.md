@@ -25,7 +25,7 @@ $?: 显示命令最后的退出状态。0表示没有错误，其余值代表有
 x=bon
 y=jour
 echo $x
-x = $x$y
+x=$x$y
 echo $x
 ```
 输出结果: bon, bonjour
@@ -100,7 +100,7 @@ ls –l | grep '^[^d] '
 
 ``` shell
 # 一个数字+空格+Mar  比如 《1 Mar》
-$ ls –l | grep ' [0-9] Mar' 
+$ ls –l | grep '[0-9] Mar' 
 ```
 
 ``` shell
@@ -116,17 +116,18 @@ egrep 'paul(e|ine)' /etc/passwd
 2. 下列的字符串
 aabbbb, accbbac, bbabbab, abbdaac, abbdbca, 
 分别匹配了下面哪个正则表达式
-* [ac]*b+ 
+* [ac]*b+
 * [^c]*ba?.$ 
-* ^a[bd]\\{1,3\\}[ac]*$
+* ^a[bd]\\{1,3\\}[ac]*$  grep和egrep区别 ⚠️
 
 3. 现有下列字符串
 aabbbb, accbbac, bbabbab, abbdaac, abbdbca, 编写正则表达式 : 
-- 匹配含有连续两个b的字符串
-- 开头和结尾字符相同的字符串
+- 匹配含有连续两个b的字符串 b\{2\}
+- 开头和结尾字符相同的字符串 ^\(.\)*\1$
 
 4. 
 * Afficher les lignes d’un fichier qui commencent par une majuscule et finissent par un point
+bon[^j][^o][^u][^r]*
 * Afficher les lignes d’un fichier qui ne contiennent pas trois lettres a
 * Afficher les lignes d’un fichier qui contiennent bon mais pas bonjour
 
@@ -134,8 +135,9 @@ aabbbb, accbbac, bbabbab, abbdaac, abbdbca, 编写正则表达式 :
 
 #### 简介
 sed "过滤器（流编辑器）是一种可编程过滤器。sed "过滤命令应用于文件，即默认的标准输入；处理结果发送到标准输出。
-- sed "命令搜索字符串或正则表达式的实例，并将其替换为另一个字符串或正则表达式。它不会修改处理过的文件，只会将结果写入标准输出
+sed "命令搜索字符串或正则表达式的实例，并将其替换为另一个字符串或正则表达式。它不会修改处理过的文件，只会将结果写入标准输出
 
+#### 用法
 sed -option 
 常用选项:
 * -r 使用扩展正则表达式
@@ -225,11 +227,89 @@ sed 's/\([0-9][0-9]*\)/aa\1aa/g'
 ```
 
 ``` shell
+# 删除文件所有sujet开头的行
 sed '/^sujet/d’ fichier
 ```
 
 ``` shell
-# 不显示1-10行
+# 不显示文件的1-10行, 删除1-10行
 sed '1,10d' fichier
 ```
 
+``` shell
+# 打印文件中所有以x或X结尾的行
+sed -n '/[xX]$/p' file
+```
+
+``` shell
+# 打印A开头或者L开头的行,注意\是转义字符没有含义
+sed -n '/^A\|^L/p' file
+```
+
+``` shell
+# 
+sed 's/[^,]*,//' file
+```
+
+``` shell
+# 正则表达式匹配 《 任意长度字符串+逗号+数字结尾》
+# sed语义为打印所有上述正则表达式匹配的所有行
+sed -n '/.*,[0-9]$/p' file
+```
+
+``` shell
+# 文件中所有行的开头添加A,
+# &代表正则表达式匹配的内容在这也就是任意的字符串
+sed 's/.*/A,&/' file
+```
+
+``` shell
+# 文件中所有行的结尾添加,A
+# &代表正则表达式匹配的内容在这也就是任意的字符串
+sed 's/.*/&,A/' file
+```
+
+``` shell
+# 在file1的每一行后都插入file2的内容
+sed 'r file2' file1
+```
+
+``` shell
+# 在file1的第一行后插入file2的内容
+sed '1r file2' file1
+```
+
+``` shell
+# 在file1中含有banana的行后插入file2的内容
+sed '/banana/r file2' file1
+```
+
+``` shell
+# 在file1的最后一行后插入file2的内容
+sed '$r file2' file1
+```
+
+``` shell
+# file1的2-4行写入file2（覆写）
+sed -n '2,4w file2' file1
+```
+
+``` shell
+# file1的3-最后一行写入file2（覆写）
+sed -n '3,$w file2' file1
+```
+
+``` shell
+# file1的含apple的行-含mango的行写入file2（覆写）
+sed -n '/apple/,/mango/w file2' f
+```
+
+
+#### exercice
+* 删除文件中的所有空行
+* 删除文件中所有的空格
+* 删除文件中所有注释
+* 用 "19NN "替换倒数第二位数字，其中 N 是文件中每一行的倒数第二位数字
+* 《 sed –e '/^[^a-zA-Z0-9]$/d' 》的作用
+* 《 sed –e '3,5s/\([a-z]\)[a-z]*\([a-z]\)/\1*\2/g' file 》的作用
+* 《 sed –e '/d.\ {3\ }t/,/f.n/s/a/b/' file 》的作用
